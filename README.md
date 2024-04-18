@@ -1,6 +1,6 @@
 <h1>Hey, I'm Nicho!
 
-<h2>CYBERSECURITY PROJECTS:</h2>
+<h2>PROJECTS:</h2>
 
 - <b>PROJECTNAMEHERE</b>
   - [NAMEHERE](LINKHERE)
