@@ -3,7 +3,7 @@
 <h2>PROJECTS:</h2>
 
 - <b>Networking Projects</b>
-  - [subnet-calculator](https://github.com/107nicho/subnetting-calculator)
+  - [Subnet Calculator (C++)](https://github.com/107nicho/subnetting-calculator)
 
 <h2>CERTICATIONS:</h2>
 
@@ -15,6 +15,6 @@
 [<img align="left" alt="107nicho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="107nicho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[linkedin]: (https://www.linkedin.com/in/107nicho/)
+[linkedin]: https://www.linkedin.com/in/107nicho
 [instagram]: (link)
 [twitter]: (link)
